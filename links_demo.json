@@ -1,0 +1,34 @@
+[
+  {
+    "导航鸭 ♪（＾∀＾●）ﾉ": [
+      {
+        "name": "Bilibili",
+        "href": "https://www.bilibili.com/",
+        "desc": "哔哩哔哩 (゜-゜)つロ 干杯~",
+        "logo": "https://tva1.sinaimg.cn/crop.0.0.1024.1024.180/68318509jw8f3sh9uz4ukj20sg0sggnf.jpg"
+      },
+      {
+        "name": "Magi",
+        "href": "https://magi.com/",
+        "desc": "基于机器学习的信息抽取和检索系统",
+        "logo": "https://tvax4.sinaimg.cn/thumb150/67a250e0ly1g9igo1viajj20hs0a0t8x.jpg"
+      }
+    ],
+    "胖友们 ✧(≖ ◡ ≖✿)": [
+      {
+        "name": "Jrotty",
+        "href": "https://qqdie.com/",
+        "desc": "轻技术,重生活,爱动漫,专注于Typecho的个人博客",
+        "logo": "https://secure.gravatar.com/avatar/07875140929860882f35fa5c06056d74?s=96&r=G&d="
+      }
+    ],
+    "香菇！ ヽ(•̀ω•́ )ゝ": [
+      {
+        "name": "Blog",
+        "href": "https://blog.siitake.cn/",
+        "desc": "智障少年蠢香菇。",
+        "logo": "https://tvax3.sinaimg.cn/crop.0.0.736.736.180/006KDLr0ly8fz9dwm3jbaj30kg0kg3za.jpg"
+      }
+    ]
+  }
+]
